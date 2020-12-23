@@ -68,7 +68,7 @@ span {
 section {
 	overflow: hidden
 }
-h5 {
+.jumbotron h5 {
 	letter-spacing: 20px;
 	color: white;
 	text-shadow: 0.3px 0.3px 0.3px #000
